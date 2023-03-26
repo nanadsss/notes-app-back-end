@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 /* eslint-disable no-trailing-spaces */
 /* eslint-disable space-before-blocks */
 /* eslint-disable linebreak-style */
@@ -135,5 +136,5 @@ addNoteHandler,
 getAllNotesHandler, 
 getNoteByIdHandler, 
 editNoteByIdHandler,
- deleteNoteByIdHandler,
+deleteNoteByIdHandler,
 };
